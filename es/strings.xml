@@ -835,14 +835,14 @@
     <string name="bonus_tech_tree_description_59">Los Aldeanos cuestan un 10/15/20/25% menos en la Edad Alta/Feudal/Castillos/Imperial.</string>
     <string name="bonus_item_description_59">Los Aldeanos cuestan un 10/15/20/25% menos en la Edad Alta/Feudal/Castillos/Imperial.</string> 
     
-    <string name="bonus_tech_tree_description_60">Los Pescadores trabajan un 10% más rápido.</string>
-    <string name="bonus_item_description_60">Los Pescadores trabajan un 10% más rápido.</string> 
+    <string name="bonus_tech_tree_description_60">Los Jinetes de Camello atacan un 25% más rápido.</string>
+    <string name="bonus_item_description_60">\@ atacan un 25% más rápido.</string> 
     
-    <string name="bonus_tech_tree_description_61">Las unidades del Establo tienen +1/2 de armadura antiproyectil en la Edad de los Castillos/Imperial.</string>
-    <string name="bonus_item_description_61">\@ tienen +1/2 de Armadura Antiproyectil en la Edad de los Castillos/Imperial.</string> 
+    <string name="bonus_tech_tree_description_61">Las unidades de polvora tienen +1 de armadura melé y +1 de armadura antiproyectil.</string>
+    <string name="bonus_item_description_61">\@ tienen +1 de armadura melé y +1 de armadura antiproyectil.</string> 
     
-    <string name="bonus_tech_tree_description_62">Las unidades en Camello tienen +4 de ataque contra Edificios Estandar.</string>
-    <string name="bonus_item_description_62">\@ tienen +4 de ataque contra Edificios Estandar.</string> 
+    <string name="bonus_tech_tree_description_62">Las unidades en Camello y la Caballería Ligera tienen +2 de ataque contra Edificios Estandar.</string>
+    <string name="bonus_item_description_62">\@ tienen +2 de ataque contra Edificios Estandar.</string> 
     
     <string name="bonus_tech_tree_description_63">Avanzar de edad cuesta un 15% menos.</string>
     <string name="bonus_item_description_63">La tecnología de \@ cuesta un 15% menos.</string> 
@@ -2368,7 +2368,7 @@
     <string name="tech_description_long_70">Tecnología Única Inca en la Edad de los Castillos. Elimina el alcance mínimo de los Hostigadores y los Honderos.</string>
     <string name="tech_description_extra_70">Elimina el alcance mínimo de los Hostigadores y los Honderos.</string> 
     
-    <string name="tech_description_nominative_71">Sultanato</string>
+    <string name="tech_description_nominative_71">Camino del Gran Tronco</string>
     <string name="tech_description_quick_71">Toda producción de oro es un 10% más rápido</string>
     <string name="tech_description_brief_71"/>
     <string name="tech_description_long_71">Tecnología Única Hindostana en la Edad de los Castillos. Toda la producción de oro es un 10% más rápido (Comercio, minería, reliquias).</string>
@@ -3407,7 +3407,7 @@
     <string name="tech_name_68">Anarquía</string>
     <string name="tech_name_69">Razias</string>
     <string name="tech_name_70">Huaracas</string>
-    <string name="tech_name_71">Sultanato</string>
+    <string name="tech_name_71">Camino del Gran Tronco</string>
     <string name="tech_name_72">Escudo Pavés</string>
     <string name="tech_name_73">Yasama</string>
     <string name="tech_name_74">Colmillos de Acero</string>

@@ -843,14 +843,14 @@
     <string name="bonus_tech_tree_description_59">Villagers cost -10/15/20/25% in Dark/Feudal/Castle/Imperial Age.</string>
     <string name="bonus_item_description_59">Villagers cost -10/15/20/25% in Dark/Feudal/Castle/Imperial Age.</string> 
     
-    <string name="bonus_tech_tree_description_60">Fishermen work 10% faster.</string>
-    <string name="bonus_item_description_60">Fishermen work 10% faster.</string> 
+    <string name="bonus_tech_tree_description_60">Camel Riders attack 25% faster.</string>
+    <string name="bonus_item_description_60">\@ attack 25% faster.</string> 
     
-    <string name="bonus_tech_tree_description_61">Stable Units have +1/2 pierce armor in Castle/Imperial Age.</string>
-    <string name="bonus_item_description_61">\@ have +1/2 pierce armor in Castle/Imperial Age.</string> 
+    <string name="bonus_tech_tree_description_61">Gunpowder units have +1 melee and +1 pierce armor.</string>
+    <string name="bonus_item_description_61">\@ have +1 melee and +1 pierce armor</string> 
     
-    <string name="bonus_tech_tree_description_62">Camel units have +4 attack against Standard Buildings.</string>
-    <string name="bonus_item_description_62">\@ have +4 attack against Standard Buildings.</string> 
+    <string name="bonus_tech_tree_description_62">Camel and Light Cavalry units have +2 attack against Standard Buildings.</string>
+    <string name="bonus_item_description_62">\@ have +2 attack against Standard Buildings.</string> 
     
     <string name="bonus_tech_tree_description_63">Advancing to the next Age costs -15%.</string>
     <string name="bonus_item_description_63">\@ research cost -15%.</string> 
@@ -2376,7 +2376,7 @@
     <string name="tech_description_long_70">Incas Castle Age Unique Technology. Upgrades your Skirmishers and Slingers by removing their minimum range.</string>
     <string name="tech_description_extra_70">Upgrades your Skirmishers and Slingers by removing their minimum range.</string> 
     
-    <string name="tech_description_nominative_71">Sultans</string>
+    <string name="tech_description_nominative_71">Grand Trunk Road</string>
     <string name="tech_description_quick_71">All gold production +10% faster</string>
     <string name="tech_description_brief_71"/>
     <string name="tech_description_long_71">Hindustanis Castle Age Unique Technology. All gold income +10% faster (Trade, mines, relics).</string>
@@ -3415,7 +3415,7 @@
     <string name="tech_name_68">Anarchy</string>
     <string name="tech_name_69">Marauders</string>
     <string name="tech_name_70">Andean Sling</string>
-    <string name="tech_name_71">Sultans</string>
+    <string name="tech_name_71">Grand Trunk Road</string>
     <string name="tech_name_72">Pavise</string>
     <string name="tech_name_73">Yasama</string>
     <string name="tech_name_74">Tusk Swords</string>
