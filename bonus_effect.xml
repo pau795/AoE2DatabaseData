@@ -3215,8 +3215,8 @@
 			<armorValueEffect/>
 		</effects>
 	</item>
-	<item id="193">
-		<info civ="4" globalFilter="none" teamBonus="true" staggered="false"/>
+	<item id="194">
+		<info civ="4" globalFilter="none" teamBonus="false" staggered="false"/>
 		<effects>
 			<statEffect>
 				<effectItem>
@@ -3242,6 +3242,16 @@
 					<operation stat="2" operator="+" value="1"/>
 				</effectItem>
 			</armorValueEffect>
+		</effects>
+	</item>
+	<item id="195">
+		<info civ="13" globalFilter="none" teamBonus="false" staggered="false"/>
+		<effects>
+			<statEffect/>
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
 		</effects>
 	</item>
 </list>

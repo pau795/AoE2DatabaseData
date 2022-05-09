@@ -581,5 +581,8 @@
 	
 	<!--Battle Elephants have +1 melee and +1 pierce armor.-->
     <item id="194"/>
+	
+	<!--Can build Caravanserai in Imperial Age-->
+    <item id="195"/>
      
 </list>
