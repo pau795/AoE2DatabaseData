@@ -1242,6 +1242,48 @@
 	
 	<string name="bonus_tech_tree_description_195">Se pueden construir Caravaseras en la Edad Imperial.</string>
     <string name="bonus_item_description_195">Se pueden construir Caravaseras en la Edad Imperial.</string> 
+	
+	<string name="bonus_tech_tree_description_196">Las unidades en Elefante reciben un 25% menos de daño de bonificación y son más resistentes a la conversión.</string>
+	<string name="bonus_item_description_196">\@ reciben un 25% menos de daño de bonificación y son más resistentes a la conversión.</string>
+
+	<string name="bonus_tech_tree_description_197">Cada Centro Urbano genera 2 Aldeanos cuando se avanza a la siguiente Edad.</string>
+	<string name="bonus_item_description_197">\@ generan 2 Aldeanos cuando se avanza a la siguiente Edad.</string>
+
+	<string name="bonus_tech_tree_description_198">Los Barcos regeneran 15HP por minuto.</string>
+	<string name="bonus_item_description_198">\@ regeneran 15HP por minuto.</string>
+
+	<string name="bonus_tech_tree_description_199">Las unidades Comerciales producen un 10% de alimento en adición al oro.</string>
+	<string name="bonus_item_description_199">\@ producen un 10% de alimento en adición al oro.</string>
+
+	<string name="bonus_tech_tree_description_200">Reciben 200 de madera cuando se avanza a la siguiente Edad.</string>
+	<string name="bonus_item_description_200">Reciben 200 de madera cuando se avanza a la siguiente Edad.</string>
+
+	<string name="bonus_tech_tree_description_201">Los Pescadores y los Pesqueros tienen +15 de capacidad de carga.</string>
+	<string name="bonus_item_description_201">\@ tienen +15 de capacidad de carga.</string>
+
+	<string name="bonus_tech_tree_description_202">Las tecnologías de los Cuarteles cuestan un 50% menos.</string>
+	<string name="bonus_item_description_202">Las tecnología de \@ cuesta un 50% menos.</string>
+
+	<string name="bonus_tech_tree_description_203">Los Hostigadores y los Arqueros en Elefante disparan un 25% más rápido.</string>
+	<string name="bonus_item_description_203">\@ disparan un 25% más rápido.</string>
+
+	<string name="bonus_tech_tree_description_204">Los Muelles proporcionan +5 de capacidad de población.</string>
+	<string name="bonus_item_description_204">\@ proporcionan +5 de capacidad de población.</string>
+
+	<string name="bonus_tech_tree_description_205">Empiezan con 2 Arbustos de Forraje.</string>
+	<string name="bonus_item_description_205">Empiezan con 2 Arbustos de Forraje.</string>
+
+	<string name="bonus_tech_tree_description_206">El ganado se puede guarecer en los Molinos para generar alimento.</string>
+	<string name="bonus_item_description_206">El ganado se puede guarecer en los Molinos para generar alimento.</string>
+
+	<string name="bonus_tech_tree_description_207">Las unidades montadas inflingen un 50% más de daño de bonificación.</string>
+	<string name="bonus_item_description_207">\@ inflingen un 50% más de daño de bonificación.</string>
+
+	<string name="bonus_tech_tree_description_208">Los Pesqueros se pueden guerecer en los Muelles.</string>
+	<string name="bonus_item_description_208">Los Pesqueros se pueden guerecer en los Muelles.</string>
+
+	<string name="bonus_tech_tree_description_209">Las unidades en Camello y en Elefante se generan un 25% más rápido.</string>
+	<string name="bonus_item_description_209">\@ se generan un 25% más rápido.</string>
  
     <!--building_description.xml-->
      
