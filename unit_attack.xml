@@ -648,23 +648,15 @@
 	</item>
 	<item id="75">
 		<entry nameID="unit_attack_values">
-			<value type="1">35</value>
-			<value type="3">15</value>
-			<value type="5">15</value>
-			<value type="9">15</value>
-			<value type="30">4</value>
-			<value type="12">40</value>
+			<value type="1">50</value>
+			<value type="12">25</value>
 			<value type="20">200</value>
 		</entry>
 	</item>
 	<item id="76">
 		<entry nameID="unit_attack_values">
-			<value type="1">45</value>
-			<value type="3">15</value>
-			<value type="5">15</value>
-			<value type="9">15</value>
-			<value type="30">4</value>
-			<value type="12">40</value>
+			<value type="1">60</value>
+			<value type="12">25</value>
 			<value type="20">275</value>
 		</entry>
 	</item>

@@ -2264,6 +2264,10 @@
 			<attackValueEffect>
 				<effectItem>
 					<filter/>
+					<operation stat="13" operator="+" value="3"/>
+				</effectItem>
+				<effectItem>
+					<filter/>
 					<operation stat="20" operator="+" value="15"/>
 				</effectItem>
 				<effectItem>
