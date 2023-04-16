@@ -99,7 +99,7 @@
 	<!--Skirmishers-->
     <item id="33" image="u_elite_skirmisher"/>
 	
-	<!--Cavalry Resistance-->
-    <item id="34" image="t_scale_mail_armor"/>
+	<!--Mounted unit Resistance-->
+    <item id="34" image="t_bloodlines"/>
      
 </list>
