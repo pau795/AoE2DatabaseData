@@ -1301,6 +1301,20 @@
 	<string name="bonus_tech_tree_description_214">Reciben +20 de oro por cada tecnología desarrollada (excepto subir de edad).</string>
     <string name="bonus_item_description_214">Reciben +20 de oro cuando la tecnología de \@ se desarrolla.</string> 
  
+	<string name="bonus_tech_tree_description_215">Los Aldeanos recolectan, construyen, y reparan un 5% más rápido.</string>
+    <string name="bonus_item_description_215">\@ recolectan, construyen, y reparan un 5% más rápido.|\@ trabajan un 5% más rápido.|</string> 
+	
+	<string name="bonus_tech_tree_description_216">La línea de Galera tiene +1 de ataque; Las Galeras de Guerra tienen +1 de armadura melé y +1 de armadura antiproyectil; los Galeones y los Dromones tienen +2 de armadura melé y +2 de armadura antiproyectil.</string>
+    <string name="bonus_item_description_216">La línea de Galera tiene +1 de ataque; Las Galeras de Guerra tienen +1 de armadura melé y +1 de armadura antiproyectil; los Galeones y los Dromones tienen +2 de armadura melé y +2 de armadura antiproyectil.</string> 
+	
+	<string name="bonus_tech_tree_description_217">La Infantería recibe el doble de efecto de las tecnologías de armadura de la Herrería.</string>
+    <string name="bonus_item_description_217">\@ recibe el doble de efecto de las tecnologías de armadura de la Herrería.||La tecnología de \@ proporciona el doble de efecto a las unidades de Infantería.</string> 
+	
+	<string name="bonus_tech_tree_description_218">Los Escorpiones cuestan un 60% menos de oro y se benefician de la tecnología de Balística.</string>
+    <string name="bonus_item_description_218">\@ cuestan un 60% menos de oro y se benefician de la tecnología de Balística.||La tecnología de \@ afecta a los Escorpiones.</string> 
+	
+	<string name="bonus_tech_tree_description_219">El alcance mínimo de la línea de Escorpión se reduce a 1.</string>
+    <string name="bonus_item_description_219">El alcance mínimo de \@ se reduce a 1.</string> 
  
     <!--building_description.xml-->
      
@@ -1599,6 +1613,7 @@
 	<string name="civilization_name_40">Bengalíes</string>
     <string name="civilization_name_41">Dravídicos</string>
     <string name="civilization_name_42">Gurjara</string>
+    <string name="civilization_name_43">Romanos</string>
      
     <!--civilization_style.xml-->
      
@@ -1833,6 +1848,7 @@
     <string name="history_name_76">Los Bengalíes</string>
     <string name="history_name_77">Los Dravídicos</string>
     <string name="history_name_78">Los Gurjara</string>
+    <string name="history_name_79">Los Romanos</string>
 	
 	
     <!--performance_list.xml-->
@@ -1920,6 +1936,8 @@
 	<string name="performance_name_80">Rathas</string>
 	<string name="performance_name_81">Espadachines Urumi</string>
 	<string name="performance_name_82">Lanzadores de Chakram</string>
+	<string name="performance_name_83">Dromones</string>
+	<string name="performance_name_84">Centuriones</string>
      
     <!--stat_list.xml-->
      
@@ -3528,6 +3546,30 @@
     <string name="tech_description_brief_244"/>
     <string name="tech_description_long_244">La línea de Espadachín obtiene +1 de armadura antiproyectil.</string>
     <string name="tech_description_extra_244"/> 
+	
+	<string name="tech_description_nominative_245">Balistas</string>
+    <string name="tech_description_quick_245">Escorpiones y la línea de Galera disparan un 33% más rápido</string>
+    <string name="tech_description_brief_245"/>
+    <string name="tech_description_long_245">Tecnología Única Romana en la Edad de los Castillos. Los Escorpiones y la línea de Galera disparan un 33% más rápido.</string>
+    <string name="tech_description_extra_245">Los Escorpiones y la línea de Galera disparan un 33% más rápido.</string> 
+	
+	<string name="tech_description_nominative_246">Legionary</string>
+    <string name="tech_description_quick_246"></string>
+    <string name="tech_description_brief_246"/>
+    <string name="tech_description_long_246">Mejora tus Espadachines de Espada Larga y permite crear Legionarios.</string>
+    <string name="tech_description_extra_246"/>
+	
+	<string name="tech_description_nominative_247">Centurión de Élite</string>
+    <string name="tech_description_quick_247"></string>
+    <string name="tech_description_brief_247"/>
+    <string name="tech_description_long_247">Mejora tus Centuriones y permite crear Centuriones de Élite.</string>
+    <string name="tech_description_extra_247"/>
+	
+	<string name="tech_description_nominative_248">Comitatenses</string>
+    <string name="tech_description_quick_248">Línea de Espadachín, Línea de Jinete y Centuriones se crean un 50% más rápido y reciben daño de carga</string>
+    <string name="tech_description_brief_248"/>
+    <string name="tech_description_long_248">Tecnología Única Romana en la Edad Imperial. La Línea de Espadachín, la Línea de Jinete y los Centuriones se crean un 50% más rápido y reciben 5 de daño de carga, que se recarga tras 20 segundos.</string>
+    <string name="tech_description_extra_248">La Línea de Espadachín, la Línea de Jinete y los Centuriones se crean un 50% más rápido y reciben 5 de daño de carga, que se recarga tras 20 segundos.</string>
  
     <!--tech_list.xml-->
      
@@ -3776,6 +3818,10 @@
     <string name="tech_name_242">Acero Wootz</string>
     <string name="tech_name_243">Guardas Fronterizos</string>
     <string name="tech_name_244">Gambesones</string>
+	<string name="tech_name_245">Balistas</string>
+    <string name="tech_name_246">Legionario</string>
+    <string name="tech_name_247">Centurión de Élite</string>
+    <string name="tech_name_248">Comitatenses</string>
      
     <!--type_list.xml-->
      
@@ -4867,6 +4913,30 @@
     <string name="unit_description_brief_175"/>
     <string name="unit_description_long_175">Unidad Única Gurjara. Infatería a distancia que lanza Chakrams penetrantes. Las unidades penetradas recibirán un 100% del daño, en vez del 50% típico.</string>
     <string name="unit_description_extra_175"/>	
+	
+	<string name="unit_description_nominative_176">Centurión</string>
+    <string name="unit_description_quick_176">Caballería de Aumento</string>
+    <string name="unit_description_brief_176"/>
+    <string name="unit_description_long_176">Unidad Única Romana. Caballería fuertemente blindada que aumenta las características de las unidades de la línea de Espadachín cercanas; con un alcance de 10 casillas, incrementa la velocidad de movimiento en un 10%, y la velocidad de ataque en un 25%.</string>
+    <string name="unit_description_extra_176"/>	
+	
+	<string name="unit_description_nominative_177">Dromón</string>
+    <string name="unit_description_quick_177"></string>
+    <string name="unit_description_brief_177"/>
+    <string name="unit_description_long_177">Barco de Guerra con largo alance y área de efecto. Efectivo contra Edificios. Débil contra otros barcos.</string>
+    <string name="unit_description_extra_177"/>	
+	
+	<string name="unit_description_nominative_178">Legionario</string>
+    <string name="unit_description_quick_178">Infantería</string>
+    <string name="unit_description_brief_178"/>
+    <string name="unit_description_long_178">Unidad Única Romana. Infantería básica de Espadachín. Unidad barata y rápida de crear. Eficaz contra Edificios y unidades que no cuestan oro.</string>
+    <string name="unit_description_extra_178"/>	
+	
+	<string name="unit_description_nominative_176">Centurión de Élite</string>
+    <string name="unit_description_quick_176">Caballería de Aumento</string>
+    <string name="unit_description_brief_176"/>
+    <string name="unit_description_long_176">Unidad Única Romana. Caballería fuertemente blindada que aumenta las características de las unidades de la línea de Espadachín cercanas; con un alcance de 10 casillas, incrementa la velocidad de movimiento en un 10%, y la velocidad de ataque en un 25%.</string>
+    <string name="unit_description_extra_176"/>	
  
     <!--unit_list.xml-->
      
@@ -5046,6 +5116,10 @@
     <string name="unit_name_173">Ratha de Élite (Melé)</string>
     <string name="unit_name_174">Espadachín Urumi de Élite</string>
     <string name="unit_name_175">Lanzador de Chakrams de Élite</string>
+	<string name="unit_name_176">Centurión</string>
+    <string name="unit_name_177">Dromón</string>
+    <string name="unit_name_178">Legionario</string>
+    <string name="unit_name_179">Centurión de Élite</string>
 	
 	<!--unit_groups.xml-->	
 	

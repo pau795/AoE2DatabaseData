@@ -642,4 +642,19 @@
 	<!--Receive +20 gold for each technology researched.-->
 	<item id="214"/>
 	
+	<!--Villagers gather, build, and repair 5% faster.-->
+	<item id="215"/>
+	
+	<!--Galley-line have +1 attack; War Galleys have +1 melee and +1 pierce armor; Galleons and Dromons have +2 melee and +2 pierce armor.-->
+	<item id="216"/>
+	
+	<!--Infantry receives double effect from Blacksmith armor upgrades.-->
+	<item id="217"/>
+	
+	<!--Scorpions cost 60% less gold and benefit from Ballistics research.-->
+	<item id="218"/>
+	
+	<!--Scorpion-line minimum range is reduced to 1.-->
+	<item id="219"/>
+	
 </list>
