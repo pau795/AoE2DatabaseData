@@ -725,8 +725,8 @@
     <string name="bonus_tech_tree_description_19">Camel Riders, Skirmishers, Spear-line cost -25%.</string>
     <string name="bonus_item_description_19">\@ cost -25%.</string> 
     
-    <string name="bonus_tech_tree_description_20">Fire Ships attack 20% faster.</string>
-    <string name="bonus_item_description_20">\@ attack 20% faster.</string> 
+    <string name="bonus_tech_tree_description_20">Fire Ships and Dromons attack 25% faster.</string>
+    <string name="bonus_item_description_20">\@ attack 25% faster.</string> 
     
     <string name="bonus_tech_tree_description_21">Town Watch and Town Patrol technologies are free.</string>
     <string name="bonus_item_description_21">\@ technology is free.</string> 
@@ -4943,7 +4943,7 @@
 	<string name="unit_description_nominative_179">Elite Centurion</string>
     <string name="unit_description_quick_179">Boosting Cavalry</string>
     <string name="unit_description_brief_179"/>
-    <string name="unit_description_long_179">Roman Unique Unit. Heavily armored Cavalry which boosts nearby Militia-line units; within a 10 tile range, it increases their movement speed by 10%, and attack rate by 25%.</string>
+    <string name="unit_description_long_179">Roman Unique Unit. Heavily armored Cavalry which boosts nearby Militia-line units; within a 12 tile range, it increases their movement speed by 15%, and attack rate by 33%.</string>
     <string name="unit_description_extra_179"/>	
 	
  
@@ -5188,6 +5188,7 @@
 	<string name="civilization_group2_category7">Lords of the West</string>
 	<string name="civilization_group2_category8">Dawn of the Dukes</string>
 	<string name="civilization_group2_category9">Dynasties of India</string>
+	<string name="civilization_group2_category10">Return of Rome</string>
 	
 	
 	
