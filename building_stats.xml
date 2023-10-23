@@ -291,4 +291,21 @@
 		</cost>
 		<development requiredBuildingID="0" requiredTechID="0" previousUpgradeID="0" nextUpgradeID="0"/>
 	</item>
+		<item id="36">
+		<baseInfo builderUnitID="1" ageID="-1" classID="2"/>
+		<stats hitPoints="300" attack="-" meleeArmor="1" pierceArmor="2" range="-" minimumRange="-" lineOfSight="4" reloadTime="-" attackDelay="-" accuracy="-" numberProjectiles="-" projectileSpeed="-" garrisonCapacity="-" populationTaken="0" trainingTime="25" workRate="1" healRate="1" hillBonus="1.25" hillReduction="0.75"/>
+		<cost>
+			<resource name="Wood">100</resource>
+			<resource name="Food">20</resource>
+		</cost>
+		<development requiredBuildingID="0" requiredTechID="0" previousUpgradeID="0" nextUpgradeID="0"/>
+	</item>	
+	<item id="30">
+		<baseInfo builderUnitID="1" ageID="19" classID="2"/>
+		<stats hitPoints="2400" attack="5" meleeArmor="4" pierceArmor="10" range="6" minimumRange="1" lineOfSight="10" reloadTime="2" attackDelay="0" accuracy="100" numberProjectiles="0" projectileSpeed="7" garrisonCapacity="10" populationTaken="-" trainingTime="40" workRate="-" healRate="0.4" hillBonus="1.25" hillReduction="0.75"/>
+		<cost>
+			<resource name="Wood">200</resource>			
+		</cost>
+		<development requiredBuildingID="0" requiredTechID="0" previousUpgradeID="0" nextUpgradeID="0"/>
+	</item>	
 </list>
