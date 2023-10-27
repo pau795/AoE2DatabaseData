@@ -1746,4 +1746,59 @@
 			<value type="34">-3</value>
 		</entry>
 	</item>
+	<item id="180">
+		<entry nameID="unit_attack_values">
+			<value type="1">11</value>
+			<value type="7">0</value>
+			<value type="9">0</value>
+			<value type="10">0</value>
+			<value type="19">0</value>
+		</entry>
+	</item>
+	<item id="181">
+		<entry nameID="unit_attack_values">
+			<value type="2">4</value>
+			<value type="6">2</value>			
+			<value type="13">0</value>
+			<value type="19">0</value>
+		</entry>
+	</item>
+	<item id="182">
+		<entry nameID="unit_attack_values">
+			<value type="1">12</value>
+			<value type="3">0</value>
+			<value type="19">0</value>
+			<value type="20">0</value>
+			<value type="33">0</value>
+			<value type="34">-3</value>
+		</entry>
+	</item>
+	<item id="183">
+		<entry nameID="unit_attack_values">
+			<value type="1">14</value>
+			<value type="3">3</value>
+			<value type="19">0</value>
+			<value type="20">0</value>
+			<value type="33">0</value>
+			<value type="34">-3</value>
+		</entry>
+	</item>
+	<item id="184">
+		<entry nameID="unit_attack_values">
+			<value type="2">4</value>
+			<value type="6">2</value>			
+			<value type="13">0</value>
+			<value type="19">0</value>
+		</entry>
+	</item>
+	<item id="185">
+		<entry nameID="unit_attack_values">
+			<value type="1">14</value>
+			<value type="3">0</value>
+			<value type="19">0</value>
+			<value type="20">0</value>
+			<value type="33">0</value>
+			<value type="34">-3</value>
+		</entry>
+	</item>
 </list>
