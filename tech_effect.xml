@@ -1308,7 +1308,8 @@
 			<costEffect>
 				<effectItem>
 					<filter/>
-					<operation stat="Gold" operator="-" value="10"/>
+					<operation stat="Gold" operator="-" value="45"/>
+					<operation stat="Food" operator="+" value="45"/>
 				</effectItem>
 			</costEffect>
 			<ecoEffect/>
@@ -3020,12 +3021,29 @@
 			<statEffect>
 				<effectItem>
 					<filter/>
-					<operation stat="9" operator="*" value="1.3"/>
+					<operation stat="3" operator="+" value="4"/>
+				</effectItem>
+				<effectItem>
+					<filter/>
+					<operation stat="22" operator="@" value="0.75"/>
 				</effectItem>
 			</statEffect>
 			<costEffect/>
 			<ecoEffect/>
-			<attackValueEffect/>
+			<attackValueEffect>
+				<effectItem>
+					<filter/>
+					<operation stat="2" operator="+" value="4"/>
+				</effectItem>
+				<effectItem>
+					<filter/>
+					<operation stat="5" operator="+" value="3"/>
+				</effectItem>
+				<effectItem>
+					<filter/>
+					<operation stat="13" operator="+" value="3"/>
+				</effectItem>
+			</attackValueEffect>
 			<armorValueEffect/>
 		</effects>
 	</item>

@@ -226,7 +226,7 @@
 			<value type="2">3</value>
 			<value type="3">4</value>
 			<value type="4">2</value>
-			<value type="6">3</value>
+			<value type="6">4</value>
 			<value type="13">0</value>
 			<value type="19">0</value>
 		</entry>
@@ -248,7 +248,7 @@
 			<value type="2">3</value>
 			<value type="3">4</value>
 			<value type="4">0</value>
-			<value type="6">2</value>
+			<value type="6">3</value>
 			<value type="13">0</value>
 			<value type="19">0</value>
 			<value type="34">-3</value>
@@ -581,8 +581,8 @@
 			<value type="1">15</value>
 			<value type="3">0</value>
 			<value type="19">0</value>
-			<value type="20">7</value>
-			<value type="22">7</value>
+			<value type="20">30</value>
+			<value type="23">30</value>
 			<value type="33">0</value>
 			<value type="34">-3</value>
 		</entry>
@@ -804,7 +804,7 @@
 			<value type="2">4</value>
 			<value type="3">5</value>
 			<value type="4">3</value>
-			<value type="6">3</value>
+			<value type="6">4</value>
 			<value type="13">0</value>
 			<value type="19">0</value>
 		</entry>
@@ -835,7 +835,7 @@
 			<value type="2">4</value>
 			<value type="3">5</value>
 			<value type="4">2</value>
-			<value type="6">2</value>
+			<value type="6">3</value>
 			<value type="13">0</value>
 			<value type="19">0</value>
 			<value type="34">-3</value>
@@ -1211,8 +1211,8 @@
 			<value type="1">20</value>
 			<value type="3">0</value>
 			<value type="19">0</value>
-			<value type="20">10</value>
-			<value type="22">10</value>
+			<value type="20">30</value>
+			<value type="23">30</value>
 			<value type="33">0</value>
 			<value type="34">-3</value>
 		</entry>
