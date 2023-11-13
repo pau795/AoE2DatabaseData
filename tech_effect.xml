@@ -3868,4 +3868,104 @@
 			<armorValueEffect/>
 		</effects>
 	</item>
+	<item id="249">
+		<effects>
+			<statEffect>
+				<effectItem>
+					<filter class="unit" ids="8 18 74"/>
+					<operation stat="10" operator="*" value="1.33"/>
+				</effectItem>
+				<effectItem>
+					<filter class="unit" ids="6 16 72 177"/>
+					<operation stat="5" operator="+" value="1"/>
+				</effectItem>
+				<effectItem>
+					<filter class="unit" ids="6 16 72 177"/>
+					<operation stat="7" operator="+" value="1"/>
+				</effectItem>
+			</statEffect>			
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="250">
+		<effects>
+			<statEffect>
+				<effectItem>
+					<filter/>
+					<operation stat="2" operator="+" value="2"/>
+				</effectItem>
+			</statEffect>
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect>
+				<effectItem>
+					<filter/>
+					<operation stat="2" operator="+" value="2"/>
+				</effectItem>
+			</attackValueEffect>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="251">
+		<effects>
+			<statEffect/>			
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="252">
+		<effects>
+			<statEffect/>			
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="253">
+		<effects>
+			<statEffect/>			
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="254">
+		<effects>
+			<statEffect>
+				<effectItem>
+					<filter/>
+					<operation stat="1" operator="+" value="30"/>
+				</effectItem>
+				<effectItem>
+					<filter class="units" ids="180"/>
+					<operation stat="19" operator="*" value="2"/>
+				</effectItem>
+			</statEffect>
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="255">
+		<effects>
+			<statEffect>
+				<effectItem>
+					<filter/>
+					<operation stat="16" operator="*" value="0.85"/>
+				</effectItem>
+			</statEffect>			
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
 </list>

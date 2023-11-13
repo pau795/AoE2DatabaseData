@@ -3811,7 +3811,7 @@
 			<costEffect>
 				<effectItem>
 					<filter/>
-					<operation stat="All" operator="*" value="0.4"/>
+					<operation stat="All" operator="*" value="0.75"/>
 				</effectItem>
 			</costEffect>
 			<ecoEffect/>
@@ -3820,17 +3820,6 @@
 		</effects>
 	</item>
 	<item id="226">
-		<info civ="44" globalFilter="none" teamBonus="false" staggered="false"/>
-		<effects>
-			<statEffect>
-			<statEffect>
-			<costEffect/>
-			<ecoEffect/>
-			<attackValueEffect/>
-			<armorValueEffect/>
-		</effects>
-	</item>
-	<item id="227">
 		<info civ="44" globalFilter="none" teamBonus="false" staggered="false"/>
 		<effects>
 			<statEffect/>
@@ -3861,6 +3850,16 @@
 					<operation stat="9" operator="*" value="1.03261"/>
 				</effectItem>
 			</ecoEffect>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="227">
+		<info civ="44" globalFilter="none" teamBonus="false" staggered="false"/>
+		<effects>
+			<statEffect/>			
+			<costEffect/>
+			<ecoEffect/>
 			<attackValueEffect/>
 			<armorValueEffect/>
 		</effects>
@@ -3974,5 +3973,44 @@
 			<armorValueEffect/>
 		</effects>
 	</item>
-	
+	<item id="233">
+		<info civ="45" globalFilter="none" teamBonus="false" staggered="false"/>
+		<effects>
+			<statEffect>
+				<effectItem>
+					<filter/>
+					<operation stat="28" operator="*" value="1.25"/>
+				</effectItem>	
+			</statEffect>
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="234">
+		<info civ="45" globalFilter="none" teamBonus="false" staggered="true"/>
+		<effects>
+			<statEffect>
+				<effectItem>
+					<filter/>
+					<operation stat="19" operator="@" value="0 0.083 0.167 0.25"/>
+				</effectItem>	
+			</statEffect>
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
+	<item id="235">
+		<info civ="45" globalFilter="none" teamBonus="true" staggered="false"/>
+		<effects>
+			<statEffect/>		
+			<costEffect/>
+			<ecoEffect/>
+			<attackValueEffect/>
+			<armorValueEffect/>
+		</effects>
+	</item>
 </list>
