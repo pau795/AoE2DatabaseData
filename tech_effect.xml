@@ -231,7 +231,7 @@
 					<operation stat="5" operator="+" value="1"/>
 				</effectItem>
 				<effectItem>
-					<filter class="building" ids="1"/>
+					<filter class="building" ids="1 37"/>
 					<operation stat="5" operator="-" value="1"/>
 				</effectItem>
 				<effectItem>
@@ -239,7 +239,7 @@
 					<operation stat="7" operator="+" value="1"/>
 				</effectItem>
 				<effectItem>
-					<filter class="building" ids="1"/>
+					<filter class="building" ids="1 37"/>
 					<operation stat="7" operator="-" value="1"/>
 				</effectItem>
 			</statEffect>
@@ -599,7 +599,7 @@
 					<operation stat="5" operator="+" value="1"/>
 				</effectItem>
 				<effectItem>
-					<filter class="building" ids="1"/>
+					<filter class="building" ids="1 37"/>
 					<operation stat="5" operator="-" value="1"/>
 				</effectItem>
 				<effectItem>
@@ -607,7 +607,7 @@
 					<operation stat="7" operator="+" value="1"/>
 				</effectItem>
 				<effectItem>
-					<filter class="building" ids="1"/>
+					<filter class="building" ids="1 37"/>
 					<operation stat="7" operator="-" value="1"/>
 				</effectItem>
 			</statEffect>
@@ -679,7 +679,7 @@
 		<effects>
 			<statEffect>
 				<effectItem>
-					<filter class="unit" ids="22 23"/>
+					<filter class="unit" ids="22 23 180"/>
 					<operation stat="9" operator="*" value="1.15"/>
 				</effectItem>
 			</statEffect>
@@ -693,7 +693,7 @@
 		<effects>
 			<statEffect>
 				<effectItem>
-					<filter class="unit" ids="22 23"/>
+					<filter class="unit" ids="22 23 180"/>
 					<operation stat="1" operator="+" value="15"/>
 				</effectItem>
 			</statEffect>
@@ -1308,9 +1308,12 @@
 			<costEffect>
 				<effectItem>
 					<filter/>
-					<operation stat="Gold" operator="-" value="45"/>
-					<operation stat="Food" operator="+" value="45"/>
+					<operation stat="Gold" operator="-" value="45"/>					
 				</effectItem>
+				<effectItem>
+					<filter/>
+					<operation stat="Food" operator="+" value="45"/>
+				</effectItem>				
 			</costEffect>
 			<ecoEffect/>
 			<attackValueEffect/>
@@ -1410,12 +1413,7 @@
 	</item>
 	<item id="83">
 		<effects>
-			<statEffect>
-				<effectItem>
-					<filter/>
-					<operation stat="1" operator="+" value="20"/>
-				</effectItem>
-			</statEffect>
+			<statEffect/>				
 			<costEffect/>
 			<ecoEffect/>
 			<attackValueEffect/>
@@ -1775,7 +1773,7 @@
 					<operation stat="5" operator="+" value="1"/>
 				</effectItem>
 				<effectItem>
-					<filter class="building" ids="1"/>
+					<filter class="building" ids="1 37"/>
 					<operation stat="5" operator="-" value="1"/>
 				</effectItem>
 				<effectItem>
@@ -1783,7 +1781,7 @@
 					<operation stat="7" operator="+" value="1"/>
 				</effectItem>
 				<effectItem>
-					<filter class="building" ids="1"/>
+					<filter class="building" ids="1 37"/>
 					<operation stat="7" operator="-" value="1"/>
 				</effectItem>
 			</statEffect>
@@ -3944,7 +3942,7 @@
 					<operation stat="1" operator="+" value="30"/>
 				</effectItem>
 				<effectItem>
-					<filter class="units" ids="180"/>
+					<filter class="unit" ids="180"/>
 					<operation stat="19" operator="*" value="2"/>
 				</effectItem>
 			</statEffect>

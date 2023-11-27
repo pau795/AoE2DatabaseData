@@ -194,7 +194,7 @@
 	</item>
 	<item id="33">
 		<bonusList ids="179"/>
-		<teamBonusList ids=" 235"/>
+		<teamBonusList ids="235"/>
 		<uniqueTechList/>
 		<hiddenBonusList ids="22"/>
 	</item>
@@ -211,7 +211,7 @@
 		<hiddenBonusList/>
 	</item>
 		<item id="36">
-		<bonusList ids="225 226 231 223"/>
+		<bonusList ids="225 226 231 233"/>
 		<teamBonusList ids="134 235"/>
 		<uniqueTechList/>
 		<hiddenBonusList/>

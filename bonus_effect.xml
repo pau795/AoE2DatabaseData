@@ -3979,7 +3979,7 @@
 			<statEffect>
 				<effectItem>
 					<filter/>
-					<operation stat="28" operator="*" value="1.25"/>
+					<operation stat="29" operator="*" value="1.25"/>
 				</effectItem>	
 			</statEffect>
 			<costEffect/>
